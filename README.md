@@ -1,6 +1,7 @@
 # FoxbelMusic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+- HTML5 CSS BOOTSTRAP FONTAWESOME UNSPLASH
 ## Versión de escritorio
 ![foxbel music 1](https://user-images.githubusercontent.com/86317658/138568054-98af437a-0a4a-458f-b10a-209e3db1b299.png)
 ___
